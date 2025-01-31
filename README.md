@@ -28,6 +28,8 @@ New papers come to the top.
 
 ## Machine translation
 
+1. [**Dialectal and Low Resource Machine Translation for Aromanian.**](https://aclanthology.org/2025.coling-main.481/) *Alexandru-Iulius Jerpelea, Alina Radoi, Sergiu Nisioi.*	COLING,	Jan 2025.
+
 1. [**The unreasonable effectiveness of few-shot learning for machine translation.**](https://arxiv.org/abs/2302.01398) *Xavier Garcia, Yamini Bansal, Colin Cherry, George Foster, Maxim Krikun, Fangxiaoyu Feng, Melvin Johnson, Orhan Firat.* arXiv, Feb 2023.
 
 # 📈Datasets
